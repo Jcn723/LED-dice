@@ -1,0 +1,5 @@
+This is the schematic circuit made with Fritzing for the dice prototype.
+
+The circuit:
+* 6 LEDs attached to consecutive digital pins (with 220 Ohm resistors)
+* Button switch connected to digital pin
